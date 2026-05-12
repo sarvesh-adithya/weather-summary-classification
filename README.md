@@ -1,5 +1,10 @@
 \# 🌦️ Weather Summary Classification
 
+## 🚀 Live Demo
+
+🔗 Streamlit App:
+https://weather-summary-classification-ml.streamlit.app
+
 
 
 \## 📌 Project Overview
